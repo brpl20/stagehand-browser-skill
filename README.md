@@ -46,3 +46,7 @@ Testado, não funciona. A extensão de runtime do Stagehand v4 exige flags de in
 - A porta CDP escuta só em `127.0.0.1`, e a origem liberada é somente a extensão do Stagehand (nunca `*`).
 - Logue no perfil dedicado só nos sites que o agente realmente precisa.
 - Telemetria anônima do `browse`: desligue com `export DO_NOT_TRACK=1`.
+
+## Ideias futuras
+
+- [Testes e2e / automações sem supervisão com `act()` + Jev](docs/future-jev-e2e.md)
