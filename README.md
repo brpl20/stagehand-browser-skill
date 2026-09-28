@@ -10,7 +10,7 @@ Skill global para Claude Code (e Codex / Gemini CLI / Copilot CLI via `~/.agents
 Requisitos: Node ≥ 22.12 (recomendado ≥ 22.18), Google Chrome e git.
 
 ```bash
-git clone <URL-DESTE-REPO> ~/.stagehand-browser-skill
+git clone https://github.com/brpl20/stagehand-browser-skill.git ~/.stagehand-browser-skill
 bash ~/.stagehand-browser-skill/install.sh
 ```
 
